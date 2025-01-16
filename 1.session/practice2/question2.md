@@ -9,3 +9,5 @@
 
 * 選択肢
 INTEGER型 DECIMAL型 CHAR型 VARCHAR型 DATE型 TIME型
+
+<!-- 全問正解 -->
